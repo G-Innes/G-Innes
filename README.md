@@ -1,6 +1,6 @@
 # Hi, I'm Grant Innes! 👋
 
-I am a passionat aspiring Web Developer, driven by a curiosity for technology and a love for writing code. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate aspiring Web Developer, driven by a curiosity for technology and a love for writing code. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ![G-Innes's Stats](https://github-readme-stats.vercel.app/api?username=G-Innes&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
