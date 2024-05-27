@@ -33,7 +33,7 @@ I am a passionate aspiring Web Developer, driven by a curiosity for technology a
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/](https://x.com/G____I____)
+- Connect with me on [X/Twitter](https://x.com/G____I____)
 - Check out my work on [GitHub](https://github.com/G-Innes?tab=repositories)
 - Connect professionally on [LinkedIn](https://www.linkedin.com/in/grant-innes-0621781a5/)
 - Reach me via email at [grant.innes90@gmail.com]
