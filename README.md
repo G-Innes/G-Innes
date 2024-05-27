@@ -7,14 +7,15 @@ I am a passionate aspiring Web Developer, driven by a curiosity for technology a
 ## 🚀 About Me
 
 - 💻 I'm currently enrolled in a Web Development career program at Turing College.
-- 
-- 
-- 
+- 🔭 I’m currently working on a personal portfolio website to showcase my projects.
+- 🌱 I’m currently learning advanced React concepts, including Redux for state management and React Router for dynamic navigation.
+- 🤝 I’m looking to collaborate on open-source projects that can make a positive impact.
+- 🖥 I'm actively looking for experience in the form of internships or full-time employment as a Junior Developer.
 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,html,css,vue,tailwindcss,bootstrap,python,postgres,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,html,css,vue,tailwindcss,bootstrap,python,postgres,docker,git,github)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -24,29 +25,20 @@ I am a passionate aspiring Web Developer, driven by a curiosity for technology a
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
   - Diving into PostgreSQL for efficient and scalable database management.
 
- ## 🏆 Achievements
+ <!--## 🏆 Achievements
 
 - 
+-->
 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/)
--
+- Connect with me on [Twitter]([https://twitter.com/](https://x.com/G____I____))
+- Check out my work on [GitHub](https://github.com/G-Innes?tab=repositories)
+- Connect professionally on [LinkedIn](https://www.linkedin.com/in/grant-innes-0621781a5/)
+- Reach me via email at [grant.innes90@gmail.com]
+
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="59" height="59" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="59" height="59" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="59" height="59" /></div>
 
-<!--
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
