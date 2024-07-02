@@ -15,7 +15,7 @@ I am a passionate aspiring Web Developer, driven by a curiosity for technology a
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,html,css,vue,tailwindcss,bootstrap,python,postgres,docker,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,html,css,tailwindcss,bootstrap,nodejs,python,postgres,docker,git,github)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
