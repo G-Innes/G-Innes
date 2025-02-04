@@ -6,7 +6,7 @@ I am a passionate aspiring Web Developer, driven by a curiosity for technology a
 
 ## 🚀 About Me
 
-- 💻 I'm currently enrolled in a Web Development career program at Turing College.
+- 💻 I'm currently providing Full Stack services to an innovative AI startup.
 - 🔭 I’m currently working on a personal portfolio website to showcase my projects.
 - 🌱 I’m currently learning advanced React concepts, including Redux for state management and React Router for dynamic navigation.
 - 🤝 I’m looking to collaborate on open-source projects that can make a positive impact.
@@ -15,7 +15,7 @@ I am a passionate aspiring Web Developer, driven by a curiosity for technology a
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,html,css,tailwindcss,bootstrap,nodejs,python,postgres,docker,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,html,css,tailwindcss,nodejs,python,postgres,git,github)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -33,7 +33,7 @@ I am a passionate aspiring Web Developer, driven by a curiosity for technology a
 
 ## 📬 Get in Touch
 
-- Connect with me on [X/Twitter](https://x.com/G____I____)
+<!--- Connect with me on [X/Twitter](https://x.com/G____I____)-->
 - Check out my work on [GitHub](https://github.com/G-Innes?tab=repositories)
 - Connect professionally on [LinkedIn](https://www.linkedin.com/in/grant-innes-0621781a5/)
 - Reach me via email at [grant.innes90@gmail.com]
