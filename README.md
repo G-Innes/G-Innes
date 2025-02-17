@@ -15,7 +15,7 @@ I am a passionate Full Stack Developer, driven by curiosity and a love for build
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,html,css,tailwindcss,nodejs,python,postgres,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,vue,tailwindcss,postgres,python,html,css,github)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
