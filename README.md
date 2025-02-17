@@ -1,16 +1,16 @@
 # Hi, I'm Grant Innes! 👋
 
-I am a passionate aspiring Web Developer, driven by a curiosity for technology and a love for writing code. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate Full Stack Developer, driven by curiosity and a love for building web applications. I enjoy exploring new technologies, refining my skills, and creating seamless digital experiences. Always eager to learn and grow, I thrive on solving challenges and contributing to the developer community.
 
 ![G-Innes's Stats](https://github-readme-stats.vercel.app/api?username=G-Innes&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 💻 I'm currently providing Full Stack services to an innovative AI startup.
-- 🔭 I’m currently working on a personal portfolio website to showcase my projects.
-- 🌱 I’m currently learning advanced React concepts, including Redux for state management and React Router for dynamic navigation.
-- 🤝 I’m looking to collaborate on open-source projects that can make a positive impact.
-- 🖥 I'm actively looking for experience in the form of internships or full-time employment as a Junior Developer.
+- 💻 Currently providing Full Stack development services for an AI startup.
+- 🔭 Building a personal portfolio to showcase my projects.
+- 🌱 Expanding my skills in modern web development, including front-end frameworks, backend technologies, and best practices.
+- 🤝 Open to collaborating on impactful open-source projects.
+- 🖥 Seeking opportunities for internships or full-time roles as a Junior Developer.
 
 
 
@@ -19,11 +19,11 @@ I am a passionate aspiring Web Developer, driven by a curiosity for technology a
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Diving into PostgreSQL for efficient and scalable database management.
+  - 🚀 Full Stack Web Development
+      - Building dynamic front-end experiences with React.
+      - Enhancing state management and performance optimization.
+      - Creating modern, responsive UI with Tailwind CSS.
+      - Strengthening backend skills with PostgreSQL for scalable databases.
 
  <!--## 🏆 Achievements
 
