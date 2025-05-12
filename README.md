@@ -2,10 +2,10 @@
 
 I’m a Full Stack Developer with hands-on experience building and deploying production-grade web applications. Currently developing AI-enhanced SEO tools at Glafos-AI, I specialize in creating performant, scalable solutions using React, Node.js, and modern tooling. I’m passionate about user experience, clean code, and bringing ideas to life through technology.
 
-![G-Innes's Stats](https://github-readme-stats.vercel.app/api?username=G-Innes&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## Tech Stack
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,vue,tailwindcss,postgres,python,html,css,github,npm)](https://skillicons.dev)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Innes&layout=compact&theme=vue-dark&hide_border=true)
 
 ## 🚀 About Me
@@ -49,10 +49,13 @@ More coming soon — full case studies will be available on my [Portfolio](https
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=G-Innes&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
+![G-Innes's Stats](https://github-readme-stats.vercel.app/api?username=G-Innes&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+<!--
 ![](https://komarev.com/ghpvc/?username=G-Innes&style=flat-square&color=blue)
 ## 🔧 Projects Preview
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=G-Innes&repo=stat-tracker&theme=vue-dark)](https://github.com/G-Innes/stat-tracker)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=G-Innes&repo=HabitTracker&theme=vue-dark)](https://github.com/G-Innes/HabitTracker)
-
+-->
