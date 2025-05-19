@@ -48,9 +48,9 @@ More coming soon — full case studies will be available on my [Portfolio](https
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=G-Innes&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=G-Innes&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-![G-Innes's Stats](https://github-readme-stats.vercel.app/api?username=G-Innes&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![G-Innes's Stats](https://github-readme-stats.vercel.app/api?username=G-Innes&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 <!--
 ![](https://komarev.com/ghpvc/?username=G-Innes&style=flat-square&color=blue)
