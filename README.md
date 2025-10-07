@@ -4,7 +4,7 @@ I’m a Full Stack Developer with hands-on experience building and deploying pro
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,vue,tailwindcss,postgres,php,python,html,css,github,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,vue,tailwindcss,postgres,php,laravel,python,html,css,github,npm)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Innes&layout=compact&theme=dark&hide_border=true)
 
