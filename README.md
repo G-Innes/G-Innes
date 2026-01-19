@@ -10,7 +10,7 @@ I’m a Full Stack Developer with hands-on experience building and deploying pro
 
 ## 🚀 About Me
 
-- 💼 Currently working as a Full Stack Developer at Glafos-AI, building AI-powered SEO and marketing analytics tools.
+- 💼 Currently working as a Full Stack Developer at FleetFox 🦊, building modern, scalable web applications that improve operational workflows in the fleet-management industry.
 - 🛠️ Daily tools: React, Next.js, Tailwind CSS, Node.js, PostgreSQL, Sanity, REST APIs, Vercel.
 - 🧠 Passionate about building scalable, performant web applications and integrating third-party services.
 - 🚀 Focused on end-to-end product development — from database schema design to responsive UI delivery.
