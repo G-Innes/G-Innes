@@ -1,4 +1,4 @@
-# Hi, I'm Grant Innes! 👋
+# Hi, I'm Grant! 👋
 
 I’m a Full Stack Developer with hands-on experience building and deploying production-grade web applications. Currently building modern, scalable web applications that improve operational workflows in the fleet-management industry., I specialize in creating performant, scalable solutions using React, Node.js, and modern tooling. I’m passionate about user experience, clean code, and bringing ideas to life through technology.
 
